@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Inventory & Sales AI Assistant",
+  "description": "An intelligent inventory and sales management application that uses natural language prompts to update records. It tracks products, sales, costs, and profits, providing insightful reports to help manage your business efficiently.",
+  "requestFramePermissions": []
+}
